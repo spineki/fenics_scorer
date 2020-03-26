@@ -1,0 +1,4 @@
+/tmp/tmp19wdm68q/dolfin_expression_808bae87bcfe7102b1a40106d1a93246.cpp: In member function ‘virtual void dolfin::dolfin_expression_808bae87bcfe7102b1a40106d1a93246::eval(Eigen::Ref<Eigen::Matrix<double, -1, 1> >, Eigen::Ref<const Eigen::Matrix<double, -1, 1> >) const’:
+/tmp/tmp19wdm68q/dolfin_expression_808bae87bcfe7102b1a40106d1a93246.cpp:62:26: error: ‘a’ was not declared in this scope
+           values[0] = -2*a*a*a*h*x[0]/(pow(x[0]*x[0] + a*a), 2));
+                          ^

@@ -1,0 +1,4 @@
+/tmp/tmpvyvsjwhp/dolfin_expression_3ec974bfe71ca19cf55d3c3cbce4c9f0.cpp: In member function ‘virtual void dolfin::dolfin_expression_3ec974bfe71ca19cf55d3c3cbce4c9f0::eval(Eigen::Ref<Eigen::Matrix<double, -1, 1> >, Eigen::Ref<const Eigen::Matrix<double, -1, 1> >) const’:
+/tmp/tmpvyvsjwhp/dolfin_expression_3ec974bfe71ca19cf55d3c3cbce4c9f0.cpp:62:26: error: ‘a’ was not declared in this scope
+           values[0] = -2*a*a;
+                          ^
