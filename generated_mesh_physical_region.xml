@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dolfin xmlns:dolfin="http://fenicsproject.org">
-  <mesh_function type="uint" dim="2" size="4214">
+  <mesh_function type="uint" dim="2" size="4240">
     <entity index="0" value="1"/>
     <entity index="1" value="1"/>
     <entity index="2" value="1"/>
@@ -4215,5 +4215,31 @@
     <entity index="4211" value="1"/>
     <entity index="4212" value="1"/>
     <entity index="4213" value="1"/>
+    <entity index="4214" value="1"/>
+    <entity index="4215" value="1"/>
+    <entity index="4216" value="1"/>
+    <entity index="4217" value="1"/>
+    <entity index="4218" value="1"/>
+    <entity index="4219" value="1"/>
+    <entity index="4220" value="1"/>
+    <entity index="4221" value="1"/>
+    <entity index="4222" value="1"/>
+    <entity index="4223" value="1"/>
+    <entity index="4224" value="1"/>
+    <entity index="4225" value="1"/>
+    <entity index="4226" value="1"/>
+    <entity index="4227" value="1"/>
+    <entity index="4228" value="1"/>
+    <entity index="4229" value="1"/>
+    <entity index="4230" value="1"/>
+    <entity index="4231" value="1"/>
+    <entity index="4232" value="1"/>
+    <entity index="4233" value="1"/>
+    <entity index="4234" value="1"/>
+    <entity index="4235" value="1"/>
+    <entity index="4236" value="1"/>
+    <entity index="4237" value="1"/>
+    <entity index="4238" value="1"/>
+    <entity index="4239" value="1"/>
   </mesh_function>
 </dolfin>

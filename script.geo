@@ -1,11 +1,11 @@
 
 ls = 5;
-nombre_points_courbe = 50;
+nombre_points_courbe = 100;
 ratio = 1000.0; // pour convertir les mètres en kilomètres
 
-L = 10; // um
-R = 10.0;   // hauteur du bord supérieur du domaine
-a = 1.0;
+L = 10000; // um
+R = 10000.0;   // hauteur du bord supérieur du domaine
+a = 1000;
 h = 1.0;
 Point(1) = {-L, R, 0, ls};
 Point(2) = {-L, 0, 0, ls};
