@@ -3,9 +3,9 @@ ls = 5;
 nombre_points_courbe = 1000;
 ratio = 1000.0; // pour convertir les mètres en kilomètres
 
-L = 10000; // um
+L = 10000;   // um
 R = 10000.0;   // hauteur du bord supérieur du domaine
-a = 1000;
+a = 1000;   // paramètre gamma de la montagne
 h = 2.0;
 Point(1) = {-L, R, 0, ls};
 Point(2) = {-L, 0, 0, ls};
@@ -29,5 +29,5 @@ Spline(6) = pList[];
 Line Loop(7) = {1,6,2,3};
 Plane Surface(7) = {7};
 Physical Surface("surf") = {7};
-Transfinite Line {6, 1, 3, 2} = 50 Using Progression 1;
+Transfinite Line {6, 1, 3, 2} = 500 Using Progression 1;
 
