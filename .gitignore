@@ -1,0 +1,5 @@
+poisson/
+.ipynb_checkpoints/
+*.sh
+jitfailure*/
+these/

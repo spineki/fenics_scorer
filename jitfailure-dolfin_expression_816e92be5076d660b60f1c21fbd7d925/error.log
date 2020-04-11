@@ -1,8 +1,0 @@
-/tmp/tmphhhr6dvu/dolfin_expression_816e92be5076d660b60f1c21fbd7d925.cpp: In member function ‘virtual void dolfin::dolfin_expression_816e92be5076d660b60f1c21fbd7d925::eval(Eigen::Ref<Eigen::Matrix<double, -1, 1> >, Eigen::Ref<const Eigen::Matrix<double, -1, 1> >) const’:
-/tmp/tmphhhr6dvu/dolfin_expression_816e92be5076d660b60f1c21fbd7d925.cpp:62:28: error: ‘ap’ was not declared in this scope
-           values[0] = -2 * ap*ap*ap*hp*x[0]/(pow(x[0]*x[0] + ap*ap), 2)) ;
-                            ^~
-/tmp/tmphhhr6dvu/dolfin_expression_816e92be5076d660b60f1c21fbd7d925.cpp:62:28: note: suggested alternative: ‘hp’
-           values[0] = -2 * ap*ap*ap*hp*x[0]/(pow(x[0]*x[0] + ap*ap), 2)) ;
-                            ^~
-                            hp
