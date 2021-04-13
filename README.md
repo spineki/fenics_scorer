@@ -17,5 +17,10 @@ This very project focuses on modelizing wind going on a particular mountain prof
 - If you want to run this program, install jupyter `pip install jupyter` and install FEniCS (you should follow the official website tutorial, which is often updated)
 
 
+## Examples
+![medium wind](https://github.com/spineki/fenics_scorer/blob/master/images/medium_wind.png)
+![low frequency](https://github.com/spineki/fenics_scorer/blob/master/images/low_frequency.png)
+![high frequency](https://github.com/spineki/fenics_scorer/blob/master/images/high_frequency.png)
+
 
 Have fun and enjoy science!
